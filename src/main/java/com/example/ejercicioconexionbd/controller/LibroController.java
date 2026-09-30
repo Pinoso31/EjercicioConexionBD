@@ -45,7 +45,7 @@ public class LibroController {
     private TableColumn<Libro,Double> colPrecioLibro;
 
     @FXML
-    private TableColumn <Libro, Integer > colStockLibr;
+    private TableColumn <Libro, Integer > colStockLibro;
 
     private final ObservableList<Libro> listaLibros = FXCollections.observableArrayList();
 
