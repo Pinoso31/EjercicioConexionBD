@@ -120,7 +120,7 @@ public class LibroController {
             statement.execute();
             mostrarAlerta(
                     Alert.AlertType.INFORMATION,
-                    "Registro almacenado",
+                    "Registro almacenadito",
                     "Libro registrado",
                     "El libro se ha almacenado exitosamente"
             );
